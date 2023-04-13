@@ -16,6 +16,6 @@
 <a href = "mailto:laraagrela94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="center">
-  <img width="100%" src="https://github.com/Laraagr1/Laraagr1/blob/output/github-contribution-grid-snake.svg"
+  <img width="100%" src="https://github.com/Laraagr1/Laraagr1/blob/main/github-contribution-grid-snake.svg"
     alt="snake - Lara Agrela" />
 </div>
