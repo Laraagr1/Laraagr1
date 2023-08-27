@@ -10,12 +10,12 @@
   <img alt="lara-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="lara-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
-</div>
-  <hr>
-###Contact:
+### Contact:
 <a href="https://www.instagram.com/laraagrx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:laraagrela94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+</div>
+  <hr>
+  
 <div align="center">
   <img width="100%" src="https://github.com/Laraagr1/Laraagr1/blob/main/github-contribution-grid-snake.svg"
     alt="snake - Lara Agrela" />
